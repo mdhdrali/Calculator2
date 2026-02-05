@@ -31,3 +31,4 @@ function calculate() {
         display.value = "Error";
     }
 }
+
